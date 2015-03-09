@@ -10,3 +10,5 @@ opportunity for me to learn and absorb as much information as I can in your rese
 Although I am only an undergraduate student I am very hard working and I love to learn new things. I am able to program in
 Python, Matlab, C, Verilog, and Assembly. If you would like to see more of my past personal and academic work at this website: 
 http://lukelicursi.wix.com/licursil.
+
+Outside of school I keep busy going for runs around campus and watching and playing basketball.
